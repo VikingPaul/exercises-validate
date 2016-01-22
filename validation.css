@@ -1,0 +1,6 @@
+.valid:invalid {
+  background-color: red;
+}
+.valid:valid {
+  background-color: green;
+}
